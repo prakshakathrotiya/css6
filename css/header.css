@@ -1,0 +1,36 @@
+ * {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 98%;
+    height: 27px;
+    border: 2px solid black; 
+    
+}
+.logo{
+    width: 17%;
+    height: 25px;
+    border: 1px solid black;
+    float: left;  
+     
+}
+ .img{
+    width: 64px;
+    height: 25px;
+    
+
+}
+.nav{
+    width: 82%;
+    text-align-last: right;
+    margin:auto;
+    padding: 4px;
+}
+a:hover{
+    color: red;
+}
+.margin{
+    margin: 5px;
+}
