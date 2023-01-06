@@ -1,0 +1,14 @@
+.inline span{
+    margin: 10px;
+    padding: 20px;
+    background-color: aquamarine;
+}
+.inlineblock span{
+width: 100px;
+height: 100px;
+background-color: cornflowerblue;
+margin: 2px;
+padding: 5px;
+display: inline-block;
+
+}
