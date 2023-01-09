@@ -1,0 +1,56 @@
+body {
+    background: url(../image/bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.box {
+    width: 220px;
+    height: 220px;
+    float: left;
+    margin: 10px;
+}
+
+.box1 {
+    background-image: url(../image/1.jpg);
+    background-size: cover;
+    background-position: top left;
+}
+
+.box2 {
+    background-image: url(../image/2.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.box3 {
+    background-image: url(../image/3.jpg);
+    background-size: cover;
+    background-position: bottom left;
+}
+
+.box4 {
+    background-image: url(../image/4.jpg);
+    background-size: cover;
+    background-position: bottom right;
+}
+
+.box5 {
+    width: 100vw;
+    height: 50vh;
+    background-attachment: fixed;
+    clear: both;
+    color: #fff;
+}
+.attachment{
+    background-image: url(../image/att1.jpg);
+    width: 100vw;
+    height: 50vh;
+    float: left;
+    background-position: center center;
+    background-attachment: scroll;
+    overflow: auto;
+}
