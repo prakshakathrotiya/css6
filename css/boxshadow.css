@@ -1,0 +1,19 @@
+.box{
+    width: 200px;
+    height: 300px;
+    background-color: darkgray;
+    box-shadow: 10px 10px 10px 5px black;
+    margin: 10px auto;
+    float: left;
+
+}
+.box2{
+    margin: 30px;
+    background-color: aquamarine;
+    box-shadow: 5px 10px 4px 5px rgb(127, 64, 64) ;
+
+}
+h1{
+    text-shadow: 2px 4px 5px rgb(143, 4, 55);
+    font-size: 100px;
+}
